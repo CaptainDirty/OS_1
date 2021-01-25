@@ -28,7 +28,7 @@ namespace Server
             {
                 Console.WriteLine("Ошибка");
             }
-            Thread.Sleep(9500);
+            Thread.Sleep(6500);
 
             Tasks.Remove(numStr);
 
